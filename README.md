@@ -21,6 +21,3 @@ Showcase preterm neonates, biologics, prodrugs, polypharmacy, formulation differ
 - Modular demonstration notebook linking **data → adult models → pediatric predictions → evaluation**
 - Representative plots and metrics for EMA visualization
 - Optional PDF summary report
-
-## EMA Alignment
-Demonstrates the **full pipeline** from Stage 1 (data aggregation) through Stage 2.3 (predictive performance evaluation).
